@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>HYGIENE FOR MENSTRUATORS</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" 
+      type="image/png" 
+      href="a/download4.png">
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@200&family=Roboto+Condensed:wght@300;400&display=swap" rel="stylesheet">
+
+  </head>
+  
+  <body>
+
+      <nav style="text-align:center;font-size:150%;">
+     <div class="topnav">
+       <div class="dropdown">
+         <a class="dropbtn" id="navDonate">DONATE ♡▼
+           <i class="fa fa-caret-down"></i>
+         </a>
+         
+         <div class="content">
+           <a href ="https://helpingwomenperiod.kindful.com/" id="hwp"> Helping Women Period</a>
+           <a href ="https://www.ubykotex.com/en-us/end-period-poverty" id="uby"> U By Kotex</a>
+           <a href="https://www.theperiodpantryproject.org/donate"id="tppp">The Period Pantry Project</a>
+         </div>
+       </div>
+         
+
+         
+  <a href="https://www.freethetampons.org/stories.html" id="stories">STORIES 𖧷</a>
+       
+         
+  <a href="about.html" id="stories">ABOUT ✧</a>
+  <a id="title" href="index.html">
+    
+      <div class="logo">
+        <img src="a/logo2-removebg-preview.png" width="277.42" height="74.555" alt="logo for hygiene for menstruators">
+      </div>
+     </div>
+  </a>
+  </nav>
+    <br><br><br><br><br><br><h1>FACT GENERATOR</h1>
+    <p class="br">˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗</p> <br>
+
+
+    
+<div class="img">
+    <img src="a/tampon.png" alt="tampon">
+    <img src="a/tampons" alt="tampons">
+    <img src="a/pad.png" alt="pads">
+   
+</div>
+
+
+<!--fact generator-->
+    <br>
+    <div class="gen">
+		<p>Click the button to learn something new! </p>
+ <br>
+
+   
+		<button class="button-56" id="myButton">FACTS</button>
+    
+      
+    <br>
+    <p id="fact"></p>
+<br><br>
+    <p class="creds"> Facts from <a href="https://www.freethetampons.org">Free the Tampons, </a><a href="https://www.forbes.com/sites/jenniferpalumbo/2021/04/15/how-one-company-is-addressing-period-poverty-and-tampon-tax/?sh=224fc11c30f9">Forbes, </a> and <a href="https://www.globalcitizen.org/en/content/tampon-tax-explained-definition-facts-statistics/">Global Citizen</a></p>
+    </div>
+
+    
+    
+  </body>
+</html>
