@@ -14,7 +14,7 @@ still, i spent my time coding this website instead of studying  😭.
 i just lost 15 years of my life from coding this tbh. 
 jk i actually just spent like 15 hours.
 
-
+i haven't figured out how to format it on different screen sizes yet, so yeah. It works on 1920x1080 👍 
 
 
 
